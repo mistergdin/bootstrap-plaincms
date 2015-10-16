@@ -1,0 +1,16 @@
+{
+    "name": "vpavlovic/plaincms",
+    "description": "Test",
+    "authors": [
+        {
+            "name": "Vladimir Pavlovic",
+            "email": "vpavlovic@westum.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "plaincms": "./"
+        }
+    }
+}
