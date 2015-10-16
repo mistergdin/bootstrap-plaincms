@@ -2,16 +2,7 @@
     "name": "vpavlovic/plaincms",
     "description": "Test",
     "version": 1,
-    "authors": [
-        {
-            "name": "Vladimir Pavlovic",
-            "email": "vpavlovic@westum.com"
-        }
-    ],
-    "require": {},
-    "autoload": {
-        "psr-0": {
-            "plaincms": "./"
-        }
+    "require": {
+        "php": ">=5.3.0"
     }
 }
